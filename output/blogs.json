@@ -1,0 +1,248 @@
+[
+  {
+    "source_url": "https://www.technologyreview.com/2025/01/08/1109188/whats-next-for-ai-in-2025/",
+    "source_type": "blog",
+    "author": "James O'Donnell, Will Douglas Heaven, Melissa Heikkilä",
+    "published_date": "2025-01-08",
+    "language": "en",
+    "region": "Global (English)",
+    "topic_tags": [
+      "Coming 2025",
+      "Ai Startups",
+      "Customized Chatbots",
+      "Robots Wider",
+      "Large Language",
+      "Technologies Improved",
+      "Models Continue",
+      "Election Disinformation"
+    ],
+    "trust_score": 0.513,
+    "trust_label": "Low Trust",
+    "trust_breakdown": {
+      "author_credibility": {
+        "score": 0.5,
+        "weight": 0.25,
+        "weighted": 0.125
+      },
+      "citation_count": {
+        "score": 0.5,
+        "weight": 0.2,
+        "weighted": 0.1
+      },
+      "domain_authority": {
+        "score": 0.6,
+        "weight": 0.25,
+        "weighted": 0.15
+      },
+      "recency": {
+        "score": 0.6,
+        "weight": 0.15,
+        "weighted": 0.09
+      },
+      "medical_disclaimer": {
+        "score": 0.7,
+        "weight": 0.15,
+        "weighted": 0.105
+      },
+      "heuristic_quality_penalty": 0.0,
+      "coi_penalty": 0.0,
+      "llm_factcheck_penalty": 0.1,
+      "llm_bias_score": 0.2,
+      "llm_evidence_quality": 0.6,
+      "llm_fallacy_detected": false,
+      "conflict_of_interest": null
+    },
+    "content_chunks": [
+      "How did we score last time round?\n\nOur four hot trends to watch out for in 2024 included what we called customized chatbots—interactive helper apps powered by multimodal large language models (check: we didn’t know it yet, but we were talking about what everyone now calls agents, the hottest thing in AI right now); generative video (check: few technologies have improved so fast in the last 12 months, with OpenAI and Google DeepMind releasing their flagship video generation models, Sora and Veo, within a week of each other this December); and more general-purpose robots that can do a wider range of tasks (check: the payoffs from large language models continue to trickle down to other parts of the tech industry, and robotics is top of the list).",
+      "We also said that AI-generated election disinformation would be everywhere, but here—happily—we got it wrong. There were many things to wring our hands over this year, but political deepfakes were thin on the ground.",
+      "So what’s coming in 2025? We’re going to ignore the obvious here: You can bet that agents and smaller, more efficient, language models will continue to shape the industry. Instead, here are five alternative picks from our AI team.",
+      "1. Generative virtual playgrounds\n\nIf 2023 was the year of generative images and 2024 was the year of generative video—what comes next? If you guessed generative virtual worlds (a.k.a. video games), high fives all round.",
+      "We got a tiny glimpse of this technology in February, when Google DeepMind revealed a generative model called Genie that could take a still image and turn it into a side-scrolling 2D platform game that players could interact with. In December, the firm revealed Genie 2, a model that can spin a starter image into an entire virtual world.",
+      "Other companies are building similar tech. In October, the AI startups Decart and Etched revealed an unofficial Minecraft hack in which every frame of the game gets generated on the fly as you play. And World Labs, a startup cofounded by Fei-Fei Li—creator of ImageNet, the vast data set of photos that kick-started the deep-learning boom—is building what it calls large world models, or LWMs.",
+      "One obvious application is video games. There’s a playful tone to these early experiments, and generative 3D simulations could be used to explore design concepts for new games, turning a sketch into a playable environment on the fly. This could lead to entirely new types of games.",
+      "But they could also be used to train robots. World Labs wants to develop so-called spatial intelligence—the ability for machines to interpret and interact with the everyday world. But robotics researchers lack good data about real-world scenarios with which to train such technology. Spinning up countless virtual worlds and dropping virtual robots into them to learn by trial and error could help make up for that."
+    ],
+    "content": "How did we score last time round? Our four hot trends to watch out for in 2024 included what we called customized chatbots—interactive helper apps powered by multimodal large language models (check: we didn’t know it yet, but we were talking about what everyone now calls agents, the hottest thing in AI right now); generative video (check: few technologies have improved so fast in the last 12 months, with OpenAI and Google DeepMind releasing their flagship video generation models, Sora and Veo, within a week of each other this December); and more general-purpose robots that can do a wider range of tasks (check: the payoffs from large language models continue to trickle down to other parts of the tech industry, and robotics is top of the list).\n\nWe also said that AI-generated election disinformation would be everywhere, but here—happily—we got it wrong. There were many things to wring our hands over this year, but political deepfakes were thin on the ground.\n\nSo what’s coming in 2025? We’re going to ignore the obvious here: You can bet that agents and smaller, more efficient, language models will continue to shape the industry. Instead, here are five alternative picks from our AI team.\n\n1. Generative virtual playgrounds\n\nIf 2023 was the year of generative images and 2024 was the year of generative video—what comes next? If you guessed generative virtual worlds (a.k.a. video games), high fives all round.\n\nWe got a tiny glimpse of this technology in February, when Google DeepMind revealed a generative model called Genie that could take a still image and turn it into a side-scrolling 2D platform game that players could interact with. In December, the firm revealed Genie 2, a model that can spin a starter image into an entire virtual world.\n\nOther companies are building similar tech. In October, the AI startups Decart and Etched revealed an unofficial Minecraft hack in which every frame of the game gets generated on the fly as you play. And World Labs, a startup cofounded by Fei-Fei Li—creator of ImageNet, the vast data set of photos that kick-started the deep-learning boom—is building what it calls large world models, or LWMs.\n\nOne obvious application is video games. There’s a playful tone to these early experiments, and generative 3D simulations could be used to explore design concepts for new games, turning a sketch into a playable environment on the fly. This could lead to entirely new types of games.\n\nBut they could also be used to train robots. World Labs wants to develop so-called spatial intelligence—the ability for machines to interpret and interact with the everyday world. But robotics researchers lack good data about real-world scenarios with which to train such technology. Spinning up countless virtual worlds and dropping virtual robots into them to learn by trial and error could help make up for that.",
+    "title": "What’s next for AI in 2025",
+    "description": "You already know that agents and small language models are the next big things. Here are five other hot trends you should watch out for this year.",
+    "scrape_timestamp": "2026-04-27T21:32:46.629287"
+  },
+  {
+    "source_url": "https://www.healthline.com/nutrition/how-to-start-exercising",
+    "source_type": "blog",
+    "author": "Arlene Semeco, Ms, How We Reviewed This Article",
+    "published_date": null,
+    "language": "en",
+    "region": "Global (English)",
+    "topic_tags": [
+      "Exercise Routine",
+      "Maintain Healthy",
+      "Activity Guidelines",
+      "Weekly Recommendations",
+      "Start Building",
+      "Camps Flexibility",
+      "Learn Warm",
+      "Diseases Benefits"
+    ],
+    "trust_score": 0.288,
+    "trust_label": "Very Low Trust",
+    "trust_breakdown": {
+      "author_credibility": {
+        "score": 0.5,
+        "weight": 0.25,
+        "weighted": 0.125
+      },
+      "citation_count": {
+        "score": 0.5,
+        "weight": 0.2,
+        "weighted": 0.1
+      },
+      "domain_authority": {
+        "score": 0.6,
+        "weight": 0.25,
+        "weighted": 0.15
+      },
+      "recency": {
+        "score": 0.2,
+        "weight": 0.15,
+        "weighted": 0.03
+      },
+      "medical_disclaimer": {
+        "score": 0.4,
+        "weight": 0.15,
+        "weighted": 0.06
+      },
+      "heuristic_quality_penalty": 0.0,
+      "coi_penalty": 0.0,
+      "llm_factcheck_penalty": 0.38,
+      "llm_bias_score": 0.3,
+      "llm_evidence_quality": 0.6,
+      "llm_fallacy_detected": false,
+      "conflict_of_interest": null
+    },
+    "content_chunks": [
+      "If you’re considering starting to exercise but don’t know where to begin, this article is for you. Here’s all you need to know about starting a routine and sticking to it.",
+      "In the long term, exercise can help you achieve and maintain a healthy body weight and muscle mass and reduce your risk for chronic diseases, among many other benefits.",
+      "In the short term, exercise can help improve your mood, mental health, and sleep, as well as manage your hormones and blood pressure levels.",
+      "Regular exercise plays an important role in maintaining your health.",
+      "Understanding the different types of exercises and how to incorporate them into your weekly routine can help you start exercising. Some tips, such as joining a fitness class or doing mini-workouts, can help make exercise a long-term habit.",
+      "Common types of exercise include aerobic, strength, calisthenics, HIIT, boot camps, flexibility, and stability. You can do them individually or combined.",
+      "These activities can be done individually or combined. The important thing is to do what works best for you and to have fun with it.",
+      "There are various types of exercise:\n\nThe Physical Activity Guidelines for Americans provides the following weekly recommendations as a minimum to help maintain physical and cognitive function and prevent chronic conditions:",
+      "Creating a sustainable exercise schedule or exercising at the same time every day can help you make it a habit. It’s important to choose a time that works best for you.",
+      "If you can’t find a 30-minute block, try incorporating at least three 10-minute mini-workouts throughout the day.",
+      "Consider looking at your current schedule to see where you can add at least 30 minutes of exercise daily. Common times include working out first thing in the morning, on your lunch break, or right after work.",
+      "Forming new exercise habits can feel challenging, especially if this is a big change from your current lifestyle. Many people also feel like they don’t have enough time to exercise.",
+      "Research suggests that you’re more likely to maintain an exercise routine long-term if:",
+      "Another key component of exercise success is to build a routine that you enjoy and can maintain over the long term.",
+      "Starting with small, achievable goals will help increase your chances of success and keep you motivated throughout the process.",
+      "For example, if your goal is to finish a 5-kilometer run , you can start by building a plan that includes shorter runs. Once you can finish those short runs, increase the distance until you can run the whole 5 kilometers in one session.",
+      "One way to do this is to start with a plan of easy steps to follow. Then you can continue building on it as your fitness level improves.",
+      "Once you decide to start exercising regularly, try to create a plan that includes attainable steps and goals.",
+      "It can also help you optimize your workout, making it easier for you and a personal trainer (if you choose to work with one) to understand your limitations and create an exercise plan tailored to your particular needs.",
+      "An early checkup can detect any health problems or conditions that could put you at risk for an injury during exercise.",
+      "This is particularly important for those new to strenuous and vigorous physical activities.",
+      "It’s important to speak with a healthcare professional and get a physical examination before starting an exercise routine.",
+      "It’s essential to consider a few things before starting a new workout routine.",
+      "The 1-week program above is just a simple sample to get you started. For more workout ideas and plans, check out the following links:",
+      "This program can be adjusted to your fitness level and made as challenging as you want.",
+      "Here is an easy-to-follow, 1-week exercise program that doesn’t require equipment and will take you 30 to 45 minutes a day to complete.",
+      "1. Stay hydrated\n\nDrinking fluids throughout the day is essential for maintaining healthy hydration levels.",
+      "The Academy of Nutrition and Dietetics provides the following recommendations for adult daily water consumption:",
+      "Men: 15.5 cups (3.7 liters)\n\n15.5 cups (3.7 liters) Women: 11.5 cups (2.7 liters)",
+      "Replenishing fluids during exercise is essential for maintaining optimal performance, preventing injury, and maximizing recovery. This is especially true when exercising in hot temperatures.",
+      "2. Optimize your nutrition\n\nEating a well-balanced diet is one of the most important aspects of preventing chronic conditions and maintaining a healthy-for-you weight.",
+      "Eating the right foods can also help boost your energy levels to maximize your workouts and provide nutrients that support muscle recovery and growth.",
+      "For instance, carbohydrates can help fuel your muscles before exercise, especially high intensity exercise that lasts longer than 1 hour. Eating carbs after exercise can also replenish glycogen stores and assist with the absorption of amino acids into your muscles during recovery.",
+      "Additionally, protein helps improve muscle recovery after exercise, repair tissue damage, and build muscle mass.",
+      "Lastly, regularly consuming healthy fats could help promote fat burning instead of muscle loss, increase energy, and manage blood pressure and cholesterol levels.",
+      "Learn more about what to eat before working out and what to eat after working out.",
+      "3. Warm-up\n\nWarming up before your workout refers to increasing your body temperature.",
+      "While this may be the traditional purpose, researchers suggest that warming up before exercising provides several physical and psychological benefits.",
+      "Warming up could prepare your body for physical exertion, improve flexibility, and reduce the risk of injury. It can also help get you in the right mindset for exercise.",
+      "To get warmed up, focus on raising your heart rate and targeting the specific body parts you’ll be using that day.",
+      "For instance, if you’re exercising your lower body, start your workout with aerobic exercises like leg kicks, half-squats, and walking lunges. For your upper body, perform arm circles and standing pushups.",
+      "Dynamic stretches are also a great way to get warmed up.",
+      "Learn more about how to warm up before exercising.",
+      "4. Cool down\n\nCooling down after working out is also important because it can help your body return to its normal state and restore breathing patterns.",
+      "According to the American Heart Association , stretching after exercise can also help reduce muscle soreness and tightness by reducing the buildup of lactic acid in your muscles and joints.",
+      "Some cool-down ideas include light walking after aerobic exercise or static stretching after resistance training.",
+      "5. Listen to your body\n\nIf you’re not used to working out regularly, be mindful of your limits.",
+      "If you feel pain or discomfort while exercising, stop and rest before continuing. Pushing through the pain is not a good idea, as it can cause injuries.",
+      "Also, remember that working out harder and faster is not necessarily better."
+    ],
+    "content": "If you’re considering starting to exercise but don’t know where to begin, this article is for you. Here’s all you need to know about starting a routine and sticking to it.\n\nIn the long term, exercise can help you achieve and maintain a healthy body weight and muscle mass and reduce your risk for chronic diseases, among many other benefits.\n\nIn the short term, exercise can help improve your mood, mental health, and sleep, as well as manage your hormones and blood pressure levels.\n\nRegular exercise plays an important role in maintaining your health.\n\nUnderstanding the different types of exercises and how to incorporate them into your weekly routine can help you start exercising. Some tips, such as joining a fitness class or doing mini-workouts, can help make exercise a long-term habit.\n\nCommon types of exercise include aerobic, strength, calisthenics, HIIT, boot camps, flexibility, and stability. You can do them individually or combined.\n\nThese activities can be done individually or combined. The important thing is to do what works best for you and to have fun with it.\n\nThere are various types of exercise:\n\nThe Physical Activity Guidelines for Americans provides the following weekly recommendations as a minimum to help maintain physical and cognitive function and prevent chronic conditions:\n\nCreating a sustainable exercise schedule or exercising at the same time every day can help you make it a habit. It’s important to choose a time that works best for you.\n\nIf you can’t find a 30-minute block, try incorporating at least three 10-minute mini-workouts throughout the day.\n\nConsider looking at your current schedule to see where you can add at least 30 minutes of exercise daily. Common times include working out first thing in the morning, on your lunch break, or right after work.\n\nForming new exercise habits can feel challenging, especially if this is a big change from your current lifestyle. Many people also feel like they don’t have enough time to exercise.\n\nResearch suggests that you’re more likely to maintain an exercise routine long-term if:\n\nAnother key component of exercise success is to build a routine that you enjoy and can maintain over the long term.\n\nStarting with small, achievable goals will help increase your chances of success and keep you motivated throughout the process.\n\nFor example, if your goal is to finish a 5-kilometer run , you can start by building a plan that includes shorter runs. Once you can finish those short runs, increase the distance until you can run the whole 5 kilometers in one session.\n\nOne way to do this is to start with a plan of easy steps to follow. Then you can continue building on it as your fitness level improves.\n\nOnce you decide to start exercising regularly, try to create a plan that includes attainable steps and goals.\n\nIt can also help you optimize your workout, making it easier for you and a personal trainer (if you choose to work with one) to understand your limitations and create an exercise plan tailored to your particular needs.\n\nAn early checkup can detect any health problems or conditions that could put you at risk for an injury during exercise.\n\nThis is particularly important for those new to strenuous and vigorous physical activities.\n\nIt’s important to speak with a healthcare professional and get a physical examination before starting an exercise routine.\n\nIt’s essential to consider a few things before starting a new workout routine.\n\nThe 1-week program above is just a simple sample to get you started. For more workout ideas and plans, check out the following links:\n\nThis program can be adjusted to your fitness level and made as challenging as you want.\n\nHere is an easy-to-follow, 1-week exercise program that doesn’t require equipment and will take you 30 to 45 minutes a day to complete.\n\n1. Stay hydrated\n\nDrinking fluids throughout the day is essential for maintaining healthy hydration levels.\n\nThe Academy of Nutrition and Dietetics provides the following recommendations for adult daily water consumption:\n\nMen: 15.5 cups (3.7 liters)\n\n15.5 cups (3.7 liters) Women: 11.5 cups (2.7 liters)\n\nReplenishing fluids during exercise is essential for maintaining optimal performance, preventing injury, and maximizing recovery. This is especially true when exercising in hot temperatures.\n\n2. Optimize your nutrition\n\nEating a well-balanced diet is one of the most important aspects of preventing chronic conditions and maintaining a healthy-for-you weight.\n\nEating the right foods can also help boost your energy levels to maximize your workouts and provide nutrients that support muscle recovery and growth.\n\nFor instance, carbohydrates can help fuel your muscles before exercise, especially high intensity exercise that lasts longer than 1 hour. Eating carbs after exercise can also replenish glycogen stores and assist with the absorption of amino acids into your muscles during recovery.\n\nAdditionally, protein helps improve muscle recovery after exercise, repair tissue damage, and build muscle mass.\n\nLastly, regularly consuming healthy fats could help promote fat burning instead of muscle loss, increase energy, and manage blood pressure and cholesterol levels.\n\nLearn more about what to eat before working out and what to eat after working out.\n\n3. Warm-up\n\nWarming up before your workout refers to increasing your body temperature.\n\nWhile this may be the traditional purpose, researchers suggest that warming up before exercising provides several physical and psychological benefits.\n\nWarming up could prepare your body for physical exertion, improve flexibility, and reduce the risk of injury. It can also help get you in the right mindset for exercise.\n\nTo get warmed up, focus on raising your heart rate and targeting the specific body parts you’ll be using that day.\n\nFor instance, if you’re exercising your lower body, start your workout with aerobic exercises like leg kicks, half-squats, and walking lunges. For your upper body, perform arm circles and standing pushups.\n\nDynamic stretches are also a great way to get warmed up.\n\nLearn more about how to warm up before exercising.\n\n4. Cool down\n\nCooling down after working out is also important because it can help your body return to its normal state and restore breathing patterns.\n\nAccording to the American Heart Association , stretching after exercise can also help reduce muscle soreness and tightness by reducing the buildup of lactic acid in your muscles and joints.\n\nSome cool-down ideas include light walking after aerobic exercise or static stretching after resistance training.\n\n5. Listen to your body\n\nIf you’re not used to working out regularly, be mindful of your limits.\n\nIf you feel pain or discomfort while exercising, stop and rest before continuing. Pushing through the pain is not a good idea, as it can cause injuries.\n\nAlso, remember that working out harder and faster is not necessarily better.",
+    "title": "How to Start Exercising: A Beginner’s Guide to Working Out",
+    "description": "Exercise is good for you, but getting started can be tough. This article explains how to start working out and stick to it in the long run.",
+    "scrape_timestamp": "2026-04-27T21:32:55.732583"
+  },
+  {
+    "source_url": "https://blog.google/technology/ai/google-gemini-ai/",
+    "source_type": "blog",
+    "author": "Sundar Pichai, Demis Hassabis, Sundar Pichai Demis Hassabis, Ceo Of Google, Ceo, Co-Founder, Google Deepmind, Anant Nawalgaria, Frank Guan, Chris Talbott",
+    "published_date": "2023-12-06",
+    "language": "en",
+    "region": "Global (English)",
+    "topic_tags": [
+      "Growing Ai",
+      "Innovation",
+      "Formed Google",
+      "Startups Enterprises",
+      "Opportunities Everyday",
+      "Tools Collaborate",
+      "Pichai Technology",
+      "Nano Models"
+    ],
+    "trust_score": 0.39,
+    "trust_label": "Very Low Trust",
+    "trust_breakdown": {
+      "author_credibility": {
+        "score": 0.6,
+        "weight": 0.25,
+        "weighted": 0.15
+      },
+      "citation_count": {
+        "score": 0.5,
+        "weight": 0.2,
+        "weighted": 0.1
+      },
+      "domain_authority": {
+        "score": 0.6,
+        "weight": 0.25,
+        "weighted": 0.15
+      },
+      "recency": {
+        "score": 0.4,
+        "weight": 0.15,
+        "weighted": 0.06
+      },
+      "medical_disclaimer": {
+        "score": 0.7,
+        "weight": 0.15,
+        "weighted": 0.105
+      },
+      "heuristic_quality_penalty": 0.0,
+      "coi_penalty": 0.0,
+      "llm_factcheck_penalty": 0.31,
+      "llm_bias_score": 0.8,
+      "llm_evidence_quality": 0.3,
+      "llm_fallacy_detected": false,
+      "conflict_of_interest": null
+    },
+    "content_chunks": [
+      "A note from Google and Alphabet CEO Sundar Pichai:",
+      "Every technology shift is an opportunity to advance scientific discovery, accelerate human progress, and improve lives. I believe the transition we are seeing right now with AI will be the most profound in our lifetimes, far bigger than the shift to mobile or to the web before it. AI has the potential to create opportunities — from the everyday to the extraordinary — for people everywhere.",
+      "It will bring new waves of innovation and economic progress and drive knowledge, learning, creativity and productivity on a scale we haven’t seen before.",
+      "That’s what excites me: the chance to make AI helpful for everyone, everywhere in the world.",
+      "Nearly eight years into our journey as an AI-first company, the pace of progress is only accelerating: Millions of people are now using generative AI across our products to do things they couldn’t even a year ago, from finding answers to more complex questions to using new tools to collaborate and create. At the same time, developers are using our models and infrastructure to build new generative AI applications, and startups and enterprises around the world are growing with our AI tools.",
+      "This is incredible momentum, and yet, we’re only beginning to scratch the surface of what’s possible.",
+      "We’re approaching this work boldly and responsibly. That means being ambitious in our research and pursuing the capabilities that will bring enormous benefits to people and society, while building in safeguards and working collaboratively with governments and experts to address risks as AI becomes more capable. And we continue to invest in the very best tools, foundation models and infrastructure and bring them to our products and to others, guided by our AI Principles.",
+      "Now, we’re taking the next step on our journey with Gemini, our most capable and general model yet, with state-of-the-art performance across many leading benchmarks. Our first version, Gemini 1.0, is optimized for different sizes: Ultra, Pro and Nano. These are the first models of the Gemini era and the first realization of the vision we had when we formed Google DeepMind earlier this year.",
+      "This new era of models represents one of the biggest science and engineering efforts we’ve undertaken as a company. I’m genuinely excited for what’s ahead, and for the opportunities Gemini will unlock for people everywhere.\n\n– Sundar"
+    ],
+    "content": "A note from Google and Alphabet CEO Sundar Pichai:\n\nEvery technology shift is an opportunity to advance scientific discovery, accelerate human progress, and improve lives. I believe the transition we are seeing right now with AI will be the most profound in our lifetimes, far bigger than the shift to mobile or to the web before it. AI has the potential to create opportunities — from the everyday to the extraordinary — for people everywhere. It will bring new waves of innovation and economic progress and drive knowledge, learning, creativity and productivity on a scale we haven’t seen before.\n\nThat’s what excites me: the chance to make AI helpful for everyone, everywhere in the world.\n\nNearly eight years into our journey as an AI-first company, the pace of progress is only accelerating: Millions of people are now using generative AI across our products to do things they couldn’t even a year ago, from finding answers to more complex questions to using new tools to collaborate and create. At the same time, developers are using our models and infrastructure to build new generative AI applications, and startups and enterprises around the world are growing with our AI tools.\n\nThis is incredible momentum, and yet, we’re only beginning to scratch the surface of what’s possible.\n\nWe’re approaching this work boldly and responsibly. That means being ambitious in our research and pursuing the capabilities that will bring enormous benefits to people and society, while building in safeguards and working collaboratively with governments and experts to address risks as AI becomes more capable. And we continue to invest in the very best tools, foundation models and infrastructure and bring them to our products and to others, guided by our AI Principles.\n\nNow, we’re taking the next step on our journey with Gemini, our most capable and general model yet, with state-of-the-art performance across many leading benchmarks. Our first version, Gemini 1.0, is optimized for different sizes: Ultra, Pro and Nano. These are the first models of the Gemini era and the first realization of the vision we had when we formed Google DeepMind earlier this year. This new era of models represents one of the biggest science and engineering efforts we’ve undertaken as a company. I’m genuinely excited for what’s ahead, and for the opportunities Gemini will unlock for people everywhere.\n\n– Sundar",
+    "title": "Introducing Gemini: our largest and most capable AI model",
+    "description": "Gemini is our most capable and general model, built to be multimodal and optimized for three different sizes: Ultra, Pro and Nano.",
+    "scrape_timestamp": "2026-04-27T21:33:04.757589"
+  }
+]

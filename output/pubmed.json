@@ -1,0 +1,72 @@
+[
+  {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/37286606/",
+    "source_type": "pubmed",
+    "author": "Lavender Yao Jiang, Xujin Chris Liu, Nima Pour Nejatian, Mustafa Nasir-Moin, Duo Wang, Anas Abidin, Kevin Eaton, Howard Antony Riina, Ilya Laufer, Paawan Punjabi, Madeline Miceli, Nora C Kim, Cordelia Orillac, Zane Schnurman, Christopher Livia, Hannah Weiss, David Kurland, Sean Neifert, Yosef Dastagirzada, Douglas Kondziolka, Alexander T M Cheung, Grace Yang, Ming Cao, Mona Flores, Anthony B Costa, Yindalon Aphinyanaphongs, Kyunghyun Cho, Eric Karl Oermann",
+    "published_date": "2023-06-07",
+    "language": "en",
+    "region": "Global (English)",
+    "topic_tags": [
+      "Electronic Health Records",
+      "Natural Language Processing",
+      "Physicians",
+      "Clinical Decision-Making",
+      "Patient Readmission",
+      "Hospital Mortality",
+      "Comorbidity",
+      "Length of Stay"
+    ],
+    "trust_score": 0.589,
+    "trust_label": "Low Trust",
+    "trust_breakdown": {
+      "author_credibility": {
+        "score": 0.5,
+        "weight": 0.25,
+        "weighted": 0.125
+      },
+      "citation_count": {
+        "score": 1.0,
+        "weight": 0.2,
+        "weighted": 0.2
+      },
+      "domain_authority": {
+        "score": 1.0,
+        "weight": 0.25,
+        "weighted": 0.25
+      },
+      "recency": {
+        "score": 0.4,
+        "weight": 0.15,
+        "weighted": 0.06
+      },
+      "medical_disclaimer": {
+        "score": 1.0,
+        "weight": 0.15,
+        "weighted": 0.15
+      },
+      "heuristic_quality_penalty": 0.0,
+      "coi_penalty": 0.05,
+      "llm_factcheck_penalty": 0.2,
+      "llm_bias_score": 0.6,
+      "llm_evidence_quality": 0.8,
+      "llm_fallacy_detected": false,
+      "conflict_of_interest": "E.K.O. reports consulting with Sofinnova and Google, income from Merck & Co. and Mirati Therapeutics, and equity in Artisight. N.P.N., M.F. and A.B.C. are employed by NVIDIA. D.K. reports consulting with Elekta. K.C. is employed by Prescient Design, a Genentech accelerator, a subsidiary of Roche. There are no other potential conflicts of interest. The work presented herein was performed exclusively within the NYU Langone Health System."
+    },
+    "content_chunks": [
+      "Physicians make critical time-constrained decisions every day. Clinical predictive models can help physicians and administrators make decisions by forecasting clinical and operational events. Existing structured data-based clinical predictive models have limited use in everyday practice owing to complexity in data processing, as well as model development and deployment1-3.",
+      "Here we show that unstructured clinical notes from the electronic health record can enable the training of clinical language models, which can be used as all-purpose clinical predictive engines with low-resistance development and deployment. Our approach leverages recent advances in natural language processing4,5 to train a large language model for medical language (NYUTron) and subsequently fine-tune it across a wide range of clinical and operational predictive tasks.",
+      "We evaluated our approach within our health system for five such tasks: 30-day all-cause readmission prediction, in-hospital mortality prediction, comorbidity index prediction, length of stay prediction, and insurance denial prediction. We show that NYUTron has an area under the curve (AUC) of 78.7-94.9%, with an improvement of 5.36-14.7% in the AUC compared with traditional models.",
+      "We additionally demonstrate the benefits of pretraining with clinical text, the potential for increasing generalizability to different sites through fine-tuning and the full deployment of our system in a prospective, single-arm trial. These results show the potential for using clinical language models in medicine to read alongside physicians and provide guidance at the point of care."
+    ],
+    "content": "Physicians make critical time-constrained decisions every day. Clinical predictive models can help physicians and administrators make decisions by forecasting clinical and operational events. Existing structured data-based clinical predictive models have limited use in everyday practice owing to complexity in data processing, as well as model development and deployment1-3. Here we show that unstructured clinical notes from the electronic health record can enable the training of clinical language models, which can be used as all-purpose clinical predictive engines with low-resistance development and deployment. Our approach leverages recent advances in natural language processing4,5 to train a large language model for medical language (NYUTron) and subsequently fine-tune it across a wide range of clinical and operational predictive tasks. We evaluated our approach within our health system for five such tasks: 30-day all-cause readmission prediction, in-hospital mortality prediction, comorbidity index prediction, length of stay prediction, and insurance denial prediction. We show that NYUTron has an area under the curve (AUC) of 78.7-94.9%, with an improvement of 5.36-14.7% in the AUC compared with traditional models. We additionally demonstrate the benefits of pretraining with clinical text, the potential for increasing generalizability to different sites through fine-tuning and the full deployment of our system in a prospective, single-arm trial. These results show the potential for using clinical language models in medicine to read alongside physicians and provide guidance at the point of care.",
+    "title": "Health system-scale language models are all-purpose prediction engines.",
+    "description": "Physicians make critical time-constrained decisions every day. Clinical predictive models can help physicians and administrators make decisions by forecasting clinical and operational events. Existing structured data-based clinical predictive models have limited use in everyday practice owing to com...",
+    "scrape_timestamp": "2026-04-27T21:33:42.220466",
+    "journal": "Nature",
+    "doi": "10.1038/s41586-023-06160-y",
+    "pmcid": "PMC10338337",
+    "citation_count": 191,
+    "pmid": "37286606",
+    "conflict_of_interest": "E.K.O. reports consulting with Sofinnova and Google, income from Merck & Co. and Mirati Therapeutics, and equity in Artisight. N.P.N., M.F. and A.B.C. are employed by NVIDIA. D.K. reports consulting with Elekta. K.C. is employed by Prescient Design, a Genentech accelerator, a subsidiary of Roche. There are no other potential conflicts of interest. The work presented herein was performed exclusively within the NYU Langone Health System."
+  }
+]
